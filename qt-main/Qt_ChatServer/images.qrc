@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/clear.ico</file>
+        <file>images/exit.ico</file>
+        <file>images/logo.ico</file>
+        <file>images/sendmsg.ico</file>
+        <file>images/start.ico</file>
+        <file>images/stop.ico</file>
+        <file>images/bgpng4.png</file>
+    </qresource>
+</RCC>
